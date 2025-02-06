@@ -34,8 +34,3 @@ Run the shell using:
 ```sh
  cargo run
 ```
-Or, if built :
-
-```
- target/release/simple_rust_shell.git
-```
